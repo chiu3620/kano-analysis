@@ -1,0 +1,7 @@
+# Input data
+raw.xlsx
+
+# Output files
+Kano_分析結果.xlsx
+kano_plot.png
+kano_plot_ellipse.png
